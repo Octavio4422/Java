@@ -23,16 +23,16 @@ public class Bota {
 		return this.consumo * tiempo;
 	}
 
-	public void correr(int tiempo) {
-		this.energia -= (botas.getConsumo() * 2) * tiempo;
-	}
-
-	public void propulsar(int tiempo) {
-		this.energia -= (botas.getConsumo() * 3) * tiempo;
-	}
-
-	public void volar(int tiempo) {
-		this.energia -= ((botas.getConsumo() * 3) + (guantes.getConsumo() * 2)) * tiempo;
-	}
+//	public void correr(int tiempo) {
+//		this.energia -= (botas.getConsumo() * 2) * tiempo;
+//	}
+//
+//	public void propulsar(int tiempo) {
+//		this.energia -= (botas.getConsumo() * 3) * tiempo;
+//	}
+//
+//	public void volar(int tiempo) {
+//		this.energia -= ((botas.getConsumo() * 3) + (guantes.getConsumo() * 2)) * tiempo;
+//	}
 	
 }

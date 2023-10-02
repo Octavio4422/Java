@@ -1,0 +1,15 @@
+
+1-GIT CLONE https plin (Baja un repositorio al disco local)
+
+2-GIT PULL (trae los cambios de las ramas correspondientes)
+actualiza el codigo
+GIT BRANCH (Muestra todas las ramas creadas)
+GIT CHECKOUT (Te moves a una rama de trabajo)
+
+main ----> octavio git pull origin "rama de trabajo"
+
+3-git status
+-los archivos cambios(Sin subir - comentados y sin subir )
+4-git add . / "nombreDelArchivo"
+5-git commit -m "el comentario descriptivo"
+6-git push origin octavio
